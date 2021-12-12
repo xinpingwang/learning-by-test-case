@@ -1,0 +1,15 @@
+{
+  "name": "learning-by-test-case",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "umi-test"
+  },
+  "dependencies": {
+    "@testing-library/react": "^12.1.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "umi-test": "^1.9.6"
+  }
+}
